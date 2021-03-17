@@ -8,6 +8,7 @@
 **Walk, Collect** is a data collector app that crowdsources reports of any sidewalk maintenance/repair that needs attention, focusing on the neighborhood of White Center.
 
 ![Alert Window of the Application](screenshots/alert.png)
+
 *The alert window of the application if the information (i) button is clicked*
 
 The app allows for zooming into the satellite map for precise pinpointing of what part of the sidewalk needs attending to. The options for providing location data for the report is either a *point* or *line* of the area that is deemed hazardous or impossible to cross properly.
